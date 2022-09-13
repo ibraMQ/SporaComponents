@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Componentsh</string>
+    <string name="title_form"><b>Formulario</b></string>
+    <string name="register">Registrar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="nacimineto">Fecha de Nacimiento</string>
+    <string name="correo">Correo</string>
+    <string name="dirreccion">Dirreccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="cancel">Cancelar</string>
+</resources>
